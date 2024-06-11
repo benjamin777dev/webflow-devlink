@@ -8,12 +8,6 @@ You can clone the Webflow project used with this Next JS project at:
 
 Make a copy, and then download this repo and connect the two using DevLink.
 
-Here's a Loom video to walk you through the process: 
-
-[https://www.loom.com/share/ea21f62201df4e60a1f92524a28f810e](https://www.loom.com/share/ea21f62201df4e60a1f92524a28f810e)
-
-You can also view [our DevLink documentation](https://docs.developers.webflow.com/docs/devlink-documentation-and-usage-guide) to learn more about all the options, features, and supported elements.
-
 ## Getting Started
 
 To get started, run the development server:
